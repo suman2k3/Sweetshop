@@ -110,11 +110,9 @@ Pytest
 
 Deployment
 
-Frontend: Netlify / Vercel
-
-Backend: Render / Vercel
 
 📁 Project Structure
+
 sweet-shop-management-system/
 │
 ├── screenshots/
@@ -191,3 +189,4 @@ However, all logic decisions, architecture, and final implementations were manua
 Suman Kumar
 Computer Science Engineering
 Chandigarh University
+
