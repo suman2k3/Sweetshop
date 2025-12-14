@@ -2,6 +2,29 @@
 
 A full-stack Sweet Shop Management System built with FastAPI (Backend) and React (Frontend).
 The application supports user authentication, role-based access control (Admin/User), sweet inventory management, and purchase functionality, following Test-Driven Development (TDD) principles.
+🔗 Live Demo
+
+Frontend (Vercel):
+👉 https://sweet-shop-management-system-alpha.vercel.app/
+
+Backend (Render):
+👉 Connected via FastAPI APIs
+
+🔐 Demo Login Credentials
+
+You can use the following credentials to test the application:
+
+👑 Admin Login
+
+Username: admin
+
+Password: admin123
+
+👤 User Login
+
+Username: suman
+
+Password: suman123
 
 
 
@@ -189,4 +212,5 @@ However, all logic decisions, architecture, and final implementations were manua
 Suman Kumar
 Computer Science Engineering
 Chandigarh University
+
 
